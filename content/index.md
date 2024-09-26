@@ -1,9 +1,7 @@
 ---
-title: Welcome to my personal rambling page :3
+title: keri's space
 ---
-I don't know how you found this place, probably from the fact that I plaster the link everywhere...
+The space for all the stuff I write.
 
-### *Hiiii!!! :33 :3 :3*
-I'm glad to see you here. There will be content soon, so stay tuned.
-
-[[introduction]]
+### Index:
+- Lets Learn - серия материалов по гиту, линуксу, жабе, и всему на свете -> [[]]
